@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Formulario Básico en PHP</title>
+    <title>Formulario Básico en PHP xD</title>
     <style>
         body {
             font-family: Arial, sans-serif;
